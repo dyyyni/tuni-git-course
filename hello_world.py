@@ -2,6 +2,7 @@ print("Hello world!")
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("Hello from feature")
 print("Hello from release")
 =======
@@ -12,3 +13,6 @@ print("Hello once again")
 =======
 print("Hello darkness my old friend")
 >>>>>>> conflict-tuni/master
+=======
+print("I've come to talk with you again")
+>>>>>>> conflict-tuni/feature/modify-print
